@@ -69,7 +69,7 @@ class Person
             person.happiness +=1
             "blah blah sun blah rain"
             
-          else
+          else topic="other"
             "blah blah blah blah blah"
           end
         end

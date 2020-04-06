@@ -64,7 +64,7 @@ class Person
             person.happiness -=2
             "blah blah partisan blah lobbyist"
             
-          else if topic="weather"
+          elseif topic="weather"
             self.happiness +=1
             person.happiness +=1
             "blah blah sun blah rain"

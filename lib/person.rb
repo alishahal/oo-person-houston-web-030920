@@ -58,7 +58,7 @@ class Person
            "Hi #{person.name}! It's #{self.name}. How are you?"
         end
         
-        def start_conversation
-          
+        def start_conversation(person, topic)
+          if topic==
         end
 end 
